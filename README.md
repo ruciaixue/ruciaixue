@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, this is ruciaixue👋
+A full Stack Engineer from China.
 
 <!--
 **ruciaixue/ruciaixue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
